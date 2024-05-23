@@ -1,0 +1,9 @@
+let noun = prompt("give me a noun");
+let nounPlural = prompt("give me a plural noun");
+let verb = prompt("give me a verb");
+let adjective = prompt("give me an adjective");
+let person = prompt("name a person");
+
+console.log(`The coolest coding language in the world is ${noun}. You can write so many ${nounPlural} with it.
+Then you get to ${verb} the best apps. You can even use it to ${verb} the world.
+The most ${adjective} part about ${noun} is that any ${person} can do it!`);
